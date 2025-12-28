@@ -1,0 +1,22 @@
+# Executable files
+*.exe
+*.out
+*.o
+
+# Output folders
+output/
+Output/
+
+# VS Code settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+temp.cpp
+temp.txt
+
+# Logs
+*.log
